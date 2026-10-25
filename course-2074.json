@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-Sword-Of-Code",
-  "commit": "f9bbded21765847ef3afc68e4180d8ee6bb063d0",
-  "score": 86,
+  "commit": "8994f9a6d29da4a9e9e9ff918a4d207748a57cb1",
+  "score": 100,
   "totalScore": 100,
   "exercises": [
     {
@@ -149,36 +149,36 @@
     {
       "name": "pte_flags",
       "max": 3,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 3,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "page_table_walk",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "multi_level_pt",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "tlb_sim",
       "max": 3,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 3,
+      "status": "pass",
+      "exitCode": 0
     }
   ],
   "student": "Sword-Of-Code",
-  "runId": "40102844181",
+  "runId": "40201692035",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
